@@ -8,7 +8,7 @@ Passo a passo para simular uma API
 1 – Começando com JSON Server: 
 
 Instalação
-#npm install -g json-server
+<n>npm install -g json-server</n>
 
 Criando o arquivo de banco de dados
 Crie um arquivo de nome db.json numa pasta do seu computador (para o teste pode usar o arquivo aqui disponibilizado).
